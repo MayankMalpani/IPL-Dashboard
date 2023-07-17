@@ -2,7 +2,7 @@
  let's build a **IPL Dashboard App** 
 
 ### Refer to images below:
-** -- https://assets.ccbp.in/frontend/content/react-js/ipl-dashboard-output-v2.gif -- **
+
 
 <!-- TODO: need to update output images -->
 <br/>
